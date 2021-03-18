@@ -1,0 +1,28 @@
+-------------------- Auto-Git Log --------------------
+		Thu Mar 18 2021 13:16:00 GMT+0300 (East Africa Time)
+------------------------------------------------------
+
+Modified files:
+* app/Http/Kernel.php
+* app/Models/User.php
+* resources/views/login.blade.php
+* routes/web.php
+
+
+Created files:
+* .autogit/autogit.json
+* app/Http/Controllers/ProductController.php
+* app/Http/Controllers/UserController.php
+* app/Http/Middleware/UserAuth.php
+* database/migrations/2021_03_18_084639_create__products_table.php
+* database/seeders/ProductSeeder.php
+* database/seeders/Userseeder.php
+
+
+Deleted files:
+* database/migrations/2014_10_12_100000_create_password_resets_table.php
+* database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+
+
+Renamed files:
+* [object Object]
