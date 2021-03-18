@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Mar 18 2021 14:16:10 GMT+0300 (East Africa Time)
+------------------------------------------------------
+
+Modified files:
+* database/seeders/ProductSeeder.php
+
+
+Created files:
+* .autogit/logs/log-18-2-2021-13-46-5.txt
+
+
+Deleted files:
+
+
+Renamed files:
