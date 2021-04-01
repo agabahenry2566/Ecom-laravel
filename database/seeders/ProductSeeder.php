@@ -16,7 +16,7 @@ class ProductSeeder extends Seeder
     public function run()
     {
         //
-        DB::table('_products')->insert(
+        DB::table('products')->insert(
             [
               
                 [
